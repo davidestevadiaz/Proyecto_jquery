@@ -1,0 +1,13 @@
+{
+    "testimonios": [
+        {"nombre": "Araceli", "texto": "El personal es muy amable.", "fecha": "10-12-2020"},  
+        {"nombre": "Juan", "texto": "Un poco caro para mi gusto.", "fecha": "28-04-2020"},
+        {"nombre": "Nacho", "texto": "Estuve trabajando mucho tiempo allí, son gente magnífica.", "fecha": "23-10-2020"},
+        {"nombre": "Francis", "texto": "Me merece la pena desplazarme para comer aquí.", "fecha": "24-02-1998"},
+        {"nombre": "Andrés", "texto": "Maravilloso local.", "fecha": "15-06-2020"},
+        {"nombre": "David", "texto": "Se lo recomendaría a todos mis amigos.", "fecha": "30-05-2020"},
+        {"nombre": "Diego", "texto": "Un vino muy bueno.", "fecha": "11-02-2020"},
+        {"nombre": "Laura", "texto": "El chef hizo ala perfección los platos.", "fecha": "13-02-2017"},
+        {"nombre": "Alex", "texto": "Estaba todo exquisito.", "fecha": "25-11-2016"}
+    ]
+}

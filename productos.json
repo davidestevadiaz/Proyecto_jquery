@@ -1,0 +1,7 @@
+{
+    "productos": [
+        {"nombre": "Menú desgustación", "imagen": "img/cuchara.jpg", "precio": "100$"},  
+        {"nombre": "Según el Chef", "imagen": "img/chef.jpg", "precio": "150$"},
+        {"nombre": "El vino como plato principal", "imagen": "img/vino.jpg", "precio": "125$"}
+    ]
+}
